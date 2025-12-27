@@ -46,3 +46,6 @@ class Solution:
                 high = mid-1
 
         return result if result else [-1,-1]
+    
+# Time Complexity: O(logn)
+# Space Complexity: O(1)
